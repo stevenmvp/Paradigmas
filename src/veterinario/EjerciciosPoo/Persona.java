@@ -1,4 +1,4 @@
-package veterinario;
+package veterinario.EjerciciosPoo;
 
 
 public class Persona {

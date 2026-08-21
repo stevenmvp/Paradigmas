@@ -1,5 +1,7 @@
 package veterinario;
 
+import veterinario.EjerciciosPoo.Persona;
+
 public class Cliente extends Persona {
     private String tipoMascota;
     private String categoria;

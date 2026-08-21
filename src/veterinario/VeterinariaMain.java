@@ -2,6 +2,9 @@ package veterinario;
 
 import java.util.Scanner;
 
+import veterinario.EjerciciosPoo.Animal;
+import veterinario.EjerciciosPoo.Persona;
+
 public class VeterinariaMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
