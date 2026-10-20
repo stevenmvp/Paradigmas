@@ -5,6 +5,69 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "proyecto_veterinaria_6e5811a5"
+        },
+        {
+            "type": "java",
+            "name": "MainBiblioteca",
+            "request": "launch",
+            "mainClass": "SistemaBiblioteca.MainBiblioteca",
+            "projectName": "proyecto_veterinaria_6e5811a5"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Ejersicio4y5.ejersicio3.main",
+            "projectName": "proyecto_veterinaria_6e5811a5"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Ejersicio4y5.ejersicio4.main",
+            "projectName": "proyecto_veterinaria_6e5811a5"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SistemaNotificaciones.Main",
+            "projectName": "proyecto_veterinaria_6e5811a5"
+        },
+        {
+            "type": "java",
+            "name": "mainAnimal",
+            "request": "launch",
+            "mainClass": "interfaz1.mainAnimal",
+            "projectName": "proyecto_veterinaria_6e5811a5"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "TallerParadigmas2.main",
+            "projectName": "proyecto_veterinaria_6e5811a5"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "EjeVehiculos.Principal.main",
+            "projectName": "proyecto_veterinaria_6e5811a5"
+        },
+        {
+            "type": "java",
+            "name": "MainEmpleados",
+            "request": "launch",
+            "mainClass": "EjEmpleados.Principal.MainEmpleados",
+            "projectName": "proyecto_veterinaria_6e5811a5"
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Iniciar Chrome para localhost",
